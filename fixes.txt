@@ -1,0 +1,2 @@
+mkdir -p $XDG_STATE_HOME/nvim/site/queries/cpp
+echo "; inherits: c" > $XDG_STATE_HOME/nvim/site/queries/cpp/highlights.scm

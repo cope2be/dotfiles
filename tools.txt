@@ -1,0 +1,29 @@
+formula:
+  homebrew
+
+  neovim
+
+  fzf
+  zoxide
+
+  git
+  cmake
+
+  tree-sitter
+  tree-sitter-cli
+
+  powerlevel10k
+
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+  zsh-history-substring-search
+
+cask:
+  aerospace
+
+  alfred
+  ghostty
+
+  localsend
+
+  font-fantasque-sans-mono-nerd-font
